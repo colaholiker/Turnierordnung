@@ -45,6 +45,12 @@
 * Der Einstieg in die laufende Serie ist jederzeit möglich, wer eine gute Gesamtplatzierung erreichen will, sollte aber von Anfang an dabei sein. 
 * Das Neujahrsblitzturnier sollte möglichst am ersten Samstag jeden Jahres durchgeführt werden.
 
+##### Einzelturniere
+* Während der ganzen Serie gelten die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
+* Bei Punktgleichkeit entscheidet in den Einzelturnieren die Wertung über die Platzierungen. Spieler mit gleicher Wertung sind gleich platziert. Das gilt auch auf Platz 1.
+* Beim Neujahrsblitzturnier erhalten der Erstplatzierte und der beste Spieler mit einer DWZ-Zahl unter 1600 außerdem einen Pokal.
+* Bei Punktgleichheit von zwei oder mehr Spielern auf Platz 1 gibt es um diesen Pokal Entscheidungsspiele im KO - System. Gespielt werden mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Partie werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. Auf die Platzziffern-Vergabe haben diese Entscheidungsspiele aber keinen Einfluss. 
+
 ##### Gesamtwertung
 * Zwei der Wertungen sind Streichresultate, falls ein Spieler nicht an allen Turnieren teilnimmt oder einmal nit so gut abschneidet.
 * Bei den einzelnen Turnieren gibt es für den 1. Platz 20 Punkte, für den 2. Platz 19 Punkte, für den 3. Platz 18 Punkte, usw. Ab dem 20. Platz erhalten alle Teilnehmer 1 Punkt. 
@@ -54,9 +60,3 @@
 * Bei Punktegleichiet zwischen zwei oder mehr Spielern auf dem ersten Platz, bzw. bei der Ermittlung des besten Teilnehmers mit einer DWZ-Zahl unter 1600, entscheidet die größere Anzahl der 1.Plätze über die Platzierungen. Sind auch diese gleich, die der 2., danach die der 3., usw. Streichresultate werden dabei nicht berücksichtigt.
 * Gibt es auch dabei am Ende einen Gleichstand werden die Platzierungen durch Entscheidundsspiele im KO-System ermittelt. Gepielt werden mindestens zwei Blitzpartien mit füfn Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Parite werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. In allen anderen Fällen sind Spieler mit gliecher Punktzahl gleich platziert.
 * Der Sieger erhält den Titel “Vereinsblitzmeister“ der entsprechend Saison und einen Pokal.
-
-##### Einzelturniere
-* Während der ganzen Serie gelten die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
-* Bei Punktgleichkeit entscheidet in den Einzelturnieren die Wertung über die Platzierungen. Spieler mit gleicher Wertung sind gleich platziert. Das gilt auch auf Platz 1.
-* Beim Neujahrsblitzturnier erhalten der Erstplatzierte und der beste Spieler mit einer DWZ-Zahl unter 1600 außerdem einen Pokal.
-* Bei Punktgleichheit von zwei oder mehr Spielern auf Platz 1 gibt es um diesen Pokal Entscheidungsspiele im KO - System. Gespielt werden mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Partie werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. Auf die Platzziffern-Vergabe haben diese Entscheidungsspiele aber keinen Einfluss. 
