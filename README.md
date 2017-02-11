@@ -29,13 +29,13 @@
 * Mitglieder mit einer DWZ – Zahl von 1600 oder mehr sind nur in der Gruppe A teilnahmeberechtigt.
 * Vor der Auslosung einer Runde (bzw. vor dem Spieltermin einer Runde, wenn nicht nach Schweizer System gespielt wird) sollen alle Spiele der vorhergehenden Runde entschieden sein. Über die Wertung noch offener Partien entscheidet der Turnierleiter. Gar nicht gespielte Begegnungen werden 1:0, 0:1 oder 0:0 gewertet.
 * Bei Punktgleichheit zwischen zwei oder mehr Spielern an der Spitze der Endtabelle wird der Sieger durch Entscheidungsspiele im KO - System ermittelt, bei denen die Farben jeweils ausgelost werden. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten Wertungen (Buchholz bzw. Sonneborn - Berger) gegeneinander gelost. Das Vereinsturnier und der Vereinspokal werden während der laufenden Verbandsrunde an den Vereinsabenden durcÜber die weiteren Endplatzierungen entscheidet die bessere Wertung. Spieler mit gleicher Wertung sind gleich platziert, die Feinwertung wird nicht berücksichtigt.
-* Der Sieger der Gruppe A erhält den Titel “Vereinsmeister" der entsprechender Saison. Die drei Erstplatzierten erhalten eine Urkunde. Der Sieger der Gruppe B erhält den Titel „B - Vereinsmeister“ der entsprechender Saison. Die drei Erstplatzierten erhalten eine Urkunde.
+* Beiden Sieger erhatlen einen Pokal und eine Urkunde. Ausserdem erhalten Sie den Titel "Vereinsmeister" (entsprechend B-Vereinsmeister) der entsprechenden Saison. Die drei Erstpaltzierten erhalten eine Urkunde.
 
 ## Vereinspokal
 * Der Vereinspokal wird in zwei Gruppen (A und B) im KO - System gespielt.
 * Bei unentschiedenem Ausgang einer Partie werden die Farben getauscht und mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben gespielt. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich.
 * Mitglieder mit einer DWZ-Zahl von 1600 oder mehr sind nur in der Gruppe A teilnahmeberechtigt, Mitglieder mit einer DWZ-Zahl unter 1600 in der Gruppe B. Mit Zustimmung des Turnierleiters können letztere auch in der Gruppe A teilnehmen. Bei Mitgliedern ohne DWZ-Zahl entscheidet der Turnierleiter.
-Der Sieger der Gruppe A erhält den Titel “Vereinspokalmeister“ der entsprechenden Saision. Der Sieger der Gruppe B erhält den Titel “B-Vereinspokal-Sieger“ der entsprechenden Saision. Beide Sieger erhalten einen Pokal und eine Urkunde. Die beiden Zweitplatzierten erhalten eine Urkunde.
+* Der Sieger der Gruppe A erhält den Titel “Vereinspokalmeister“ der entsprechenden Saision. Der Sieger der Gruppe B erhält den Titel “B-Vereinspokal-Sieger“ der entsprechenden Saision. Beide Sieger erhalten einen Pokal und eine Urkunde. Die beiden Zweitplatzierten erhalten eine Urkunde.
 
 ## Vereinsblitzmeisterschaft (Neufahrsblitzturnier)
 * Der Modus der Vereinsblitzmeisterschaft wird vom Turnierleiter abhängig von der Teilnehmeranzahl jedes Jahr neu festgelegt.
