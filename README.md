@@ -29,7 +29,7 @@
 ## Vereinsturnier
 * Das Vereinsturnier soll in zwei Gruppen (A und B) gespielt werden. 
 * Der Turnierleiter legt einen passenden Austragungsmodus fest.
-  * 2017/2018: Schweizersystem 9 Runde Schweizersystem 9 Rundenn
+  * 2017/2018: Schweizersystem 9 Runden
   * 2016/2017: Schweizersystem 9 Runden
 * Die Bedenkzeit wird vom Turnierleiter festgelegt. Sie muss eine DWZ Auswertung erlauben.
   * 2017/2018: 90min für 36 Züge + 30min für den Rest
