@@ -28,7 +28,7 @@
 ## Vereinsturnier
 * Das Vereinsturnier soll in zwei Gruppen (A und B) gespielt werden. Der Turnierleiter legt einen passenden Austragungsmodus fest.
 * Mitglieder mit einer DWZ – Zahl von 1600 oder mehr sind nur in der Gruppe A teilnahmeberechtigt.
-* Vor der Auslosung einer Runde (bzw. vor dem Spieltermin einer Runde, wenn nicht nach Schweizer System gespielt wird) sollen alle Spiele der vorhergehenden Runde entschieden sein. Über die Wertung noch offener Partien entscheidet der Turnierleiter. Gar nicht gespielte Begegnungen werden 1:0, 0:1 oder 0:0 gewertet.
+* Vor der Auslosung einer Runde (bzw. vor dem Spieltermin einer Runde, wenn nicht nach Schweizer System gespielt wird) sollen alle Spiele der vorhergehenden Runde entschieden sein. Über die Wertung noch offener Partien entscheidet der Turnierleiter.
 * Bei Punktgleichheit zwischen zwei oder mehr Spielern an der Spitze der Endtabelle wird der Sieger durch Entscheidungsspiele im KO - System ermittelt, bei denen die Farben jeweils ausgelost werden. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten Wertungen (Buchholz bzw. Sonneborn - Berger) gegeneinander gelost. Das Vereinsturnier und der Vereinspokal werden während der laufenden Verbandsrunde an den Vereinsabenden durchgeführt.
 * Über die weiteren Endplatzierungen entscheidet die bessere Wertung. Spieler mit gleicher Wertung sind gleich platziert, die Feinwertung wird nicht berücksichtigt.
 * Beiden Sieger erhalten einen Pokal und eine Urkunde. Ausserdem erhalten Sie den Titel "Vereinsmeister" (entsprechend B-Vereinsmeister) der entsprechenden Saison. Die drei Erstplatzierten erhalten eine Urkunde.
