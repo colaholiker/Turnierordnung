@@ -1,7 +1,7 @@
 # Turnierordnung des Schachverein Balingen e.V.
 
 ## Allgemeines
-* Diese Turnierordnung dient der einwandfreien Abwicklung des vereinsinternen Spielbetriebes des Schachvereins Balingen. Sie wurde vom Ausschuss am ........... beschlossen und tritt mit Beginn der Saison ..../.... in Kraft. Änderungen dieser Turnierordnung sind auf Antrag im Ausschuss mit einfacher Stimmenmehrheit möglich.
+* Diese Turnierordnung dient der einwandfreien Abwicklung des vereinsinternen Spielbetriebes des Schachvereins Balingen. Sie wurde vom Ausschuss am ........... beschlossen und tritt mit Beginn der Saison 2017/2018 in Kraft. Änderungen dieser Turnierordnung sind auf Antrag im Ausschuss mit einfacher Stimmenmehrheit möglich.
 * Alle anderen Beschlüsse zum vereinsinternen Spielbetrieb vor diesem Termin sind hinfällig.
 * Soweit in dieser Turnierordnung nichts anderes vorgesehen ist, gelten die Spielregeln des Weltschachbundes (FIDE - Regeln) in ihrer jeweils im Schachverband Württemberg e.V. gültigen Fassung.
 
