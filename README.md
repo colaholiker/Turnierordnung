@@ -40,7 +40,6 @@
 ## Vereinsblitzmeisterschaft (Neufahrsblitzturnier)
 * Der Modus der Vereinsblitzmeisterschaft wird vom Turnierleiter abhängig von der Teilnehmeranzahl jedes Jahr neu festgelegt.
 * Die Bedenkzeit beträgt je Spieler 5 Minuten für die gesamte Partie.
-* Die Gewinnreklamation durch Schlagen eines im Schach stehenden Königs ist zulässig.
 * Die Vereinsblitzmeisterschaft soll möglichst am ersten Samstag jeden Jahres durchgeführt werden.
 * Der Sieger erhält den Titel “Vereinsblitzmeister“ der entsprechend Saison und einen Pokal.
 
