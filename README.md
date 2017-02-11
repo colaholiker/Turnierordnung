@@ -45,9 +45,9 @@
 * Die Bedenkzeit beträgt je Spieler 5 Minuten für die gesamte Partie.
 * Der Einstieg in die laufende Serie ist jederzeit möglich, wer eine gute Gesamtplatzierung erreichen will, sollte aber von Anfang an dabei sein. 
 * Das Neujahrsblitzturnier sollte möglichst am ersten Samstag jeden Jahres durchgeführt werden.
+* Während der ganzen Serie gelten die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
 
 ##### Einzelturniere
-* Während der ganzen Serie gelten die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
 * Bei Punktgleichheit entscheidet in den Einzelturnieren die Wertung über die Platzierungen. Spieler mit gleicher Wertung sind gleich platziert. Das gilt auch auf Platz 1.
 * Beim Neujahrsblitzturnier erhalten der Erstplatzierte und der beste Spieler mit einer DWZ-Zahl unter 1600 außerdem einen Pokal.
 * Bei Punktgleichheit von zwei oder mehr Spielern auf Platz 1 gibt es um diesen Pokal Entscheidungsspiele im KO - System. Gespielt werden mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Partie werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. Auf die Platzziffern-Vergabe haben diese Entscheidungsspiele aber keinen Einfluss. 
