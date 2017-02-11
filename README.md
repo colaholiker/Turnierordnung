@@ -35,8 +35,7 @@
 * Der Vereinspokal wird in zwei Gruppen (A und B) im KO - System gespielt.
 * Bei unentschiedenem Ausgang einer Partie werden die Farben getauscht und mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben gespielt. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich.
 * Mitglieder mit einer DWZ-Zahl von 1600 oder mehr sind nur in der Gruppe A teilnahmeberechtigt, Mitglieder mit einer DWZ-Zahl unter 1600 in der Gruppe B. Mit Zustimmung des Turnierleiters können letztere auch in der Gruppe A teilnehmen. Bei Mitgliedern ohne DWZ-Zahl entscheidet der Turnierleiter.
-Der Sieger der Gruppe A erhält den Titel “Vereinspokalmeister“ der entsprechenden Saision. Der Sieger der Gruppe B erhält den Titel “B-Vereinspokal-Sieger“ der entsprechenden Saision. Beide Sieger erhalten einen Wanderpokal und eine Urkunde. Die beiden Zweitplatzierten erhalten eine Urkunde.
-* Ein Wanderpokal geht nach dreimaligem aufeinander folgendem oder fünfmaligem Gewinn in den Besitz eines Spielers über.
+Der Sieger der Gruppe A erhält den Titel “Vereinspokalmeister“ der entsprechenden Saision. Der Sieger der Gruppe B erhält den Titel “B-Vereinspokal-Sieger“ der entsprechenden Saision. Beide Sieger erhalten einen Pokal und eine Urkunde. Die beiden Zweitplatzierten erhalten eine Urkunde.
 
 ## Vereinsblitzmeisterschaft (Neufahrsblitzturnier)
 * Der Modus der Vereinsblitzmeisterschaft wird vom Turnierleiter abhängig von der Teilnehmeranzahl jedes Jahr neu festgelegt.
