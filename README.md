@@ -10,6 +10,7 @@
   * Vereinsturnier
   * Vereinspokal
   * Vereinsblitzmeisterschaft (inkl. Neujahrsblitzturnier)
+  * Schnellschachmeisterschaft
 * Zuständig für die oben genannten Turniere ist der Turnierleiter. Er sorgt für die ordnungsgemäße Durchführung dieser Turniere und entscheidet in Streitfällen. Er kann die Leitung der Turniere delegieren und Schiedsrichter bestimmen.
 * Teilnahmeberechtigt an diesen Turnieren sind alle Vereinsmitglieder.
 * Der Spielbetrieb der Jugend wird vom Vereinsjugendleiter nach eigenem Ermessen und in eigener Verantwortung durchgeführt.
@@ -37,9 +38,25 @@
 * Mitglieder mit einer DWZ-Zahl von 1600 oder mehr sind nur in der Gruppe A teilnahmeberechtigt, Mitglieder mit einer DWZ-Zahl unter 1600 in der Gruppe B. Mit Zustimmung des Turnierleiters können letztere auch in der Gruppe A teilnehmen. Bei Mitgliedern ohne DWZ-Zahl entscheidet der Turnierleiter.
 * Der Sieger der Gruppe A erhält den Titel “Vereinspokalmeister“ der entsprechenden Saision. Der Sieger der Gruppe B erhält den Titel “B-Vereinspokal-Sieger“ der entsprechenden Saision. Beide Sieger erhalten einen Pokal und eine Urkunde. Die beiden Zweitplatzierten erhalten eine Urkunde.
 
-## Vereinsblitzmeisterschaft (Neufahrsblitzturnier)
+## Vereinsblitzmeisterschaft (inkl. Neufahrsblitzturnier)
 * Der Modus der Vereinsblitzmeisterschaft wird vom Turnierleiter abhängig von der Teilnehmeranzahl jedes Jahr neu festgelegt.
+* Abhängig von der Teilnehmerzahl werden die Turniere entweder im Rutschsystem oder Schweizer System durchgeführt.
 * Die Bedenkzeit beträgt je Spieler 5 Minuten für die gesamte Partie.
-* Die Vereinsblitzmeisterschaft soll möglichst am ersten Samstag jeden Jahres durchgeführt werden.
+* Der Einstieg in die laufende Serie ist jederzeit möglich, wer eine gute Gesamtplatzierung erreichen will, sollte aber von Anfang an dabei sein. 
+* Das Neujahrsblitzturnier sollte möglichst am ersten Samstag jeden Jahres durchgeführt werden.
+
+### Gesamtwertung
+* Zwei der Wertungen sind Streichresultate, falls ein Spieler nicht an allen Turnieren teilnimmt oder einmal nit so gut abschneidet.
+* Bei den einzelnen Turnieren gibt es für den 1. Platz 20 Punkte, für den 2. Platz 19 Punkte, für den 3. Platz 18 Punkte, usw. Ab dem 20. Platz erhalten alle Teilnehmer 1 Punkt. 
+* Nimmt ein Spieler an einem oder mehreren Turnieren nicht teil, erhält er dafür jeweils 0 Punkte. 
+* Für die Gesamtwertung werden die besten Wertungen (Punktezahlen) jedes Teilnehmers zu einer Gesamtpunktzahl addiert. Der Teilnehmer mit der höchsten Punktzahl ist Gesamtsieger und Vereinsblitzmeister der entsprechenden Saison. Der beste Teilnehmer mit einer DWZ-Zahl unter 1600 ist B-Vereinsblitzmeister der entsprechenden Saison. Entscheidend sid die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
+* Die beiden Meister erhalten einen Pokal, die jeweils 2.- und 3.-Platzierten Urkunden.
+* Bei Punktegleichiet zwischen zwei oder mehr Spielern auf dem ersten Platz, bzw. bei der Ermittlung des besten Teilnehmers mit einer DWZ-Zahl unter 1600, entscheidet die größere Anzahl der 1.Plätze über die Platzierungen. Sind auch diese gleich, die der 2., danach die der 3., usw. Streichresultate werden dabei nicht berücksichtigt.
+* Gibt es auch dabei am Ende einen Gleichstand werden die Platzierungen durch Entscheidundsspiele im KO-System ermittelt. Gepielt werden mindestens zwei Blitzpartien mit füfn Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Parite werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. In allen anderen Fällen sind Spieler mit gliecher Punktzahl gleich platziert.
 * Der Sieger erhält den Titel “Vereinsblitzmeister“ der entsprechend Saison und einen Pokal.
 
+### Einzelturniere
+* Während der ganzen Serie gelten die am Tag des ersten Turniers aktuellen DWZ-Zahlen.
+* Bei Punktgleichkeit entscheidet in den Einzelturnieren die Wertung über die Platzierungen. Spieler mit gleicher Wertung sind gleich platziert. Das gilt auch auf Platz 1.
+* Beim Neujahrsblitzturnier erhalten der Erstplatzierte und der beste Spieler mit einer DWZ-Zahl unter 1600 außerdem einen Pokal.
+* Bei Punktgleichheit von zwei oder mehr Spielern auf Platz 1 gibt es um diesen Pokal Entscheidungsspiele im KO - System. Gespielt werden mindestens zwei Blitzpartien mit fünf Minuten Bedenkzeit je Spieler und wechselnden Farben. Die Farben der ersten Partie werden ausgelost. Der Spieler, der ab der zweiten Blitzpartie einen Punktevorsprung erreicht, entscheidet die Begegnung für sich. Falls Spieler in der ersten Runde spielfrei bleiben müssen, werden die Spieler mit den niedrigsten DWZ-Zahlen gegeneinander gelost. Auf die Platzziffern-Vergabe haben diese Entscheidungsspiele aber keinen Einfluss. 
