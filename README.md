@@ -9,10 +9,9 @@
 * Im Verein werden folgende Turniere regelmäßig jährlich ausgetragen:
   * Vereinsturnier
   * Vereinspokal
-  * Vereinsblitzmeisterschaft (Neujahrsblitzturnier)
+  * Vereinsblitzmeisterschaft (inkl. Neujahrsblitzturnier)
 * Zuständig für die oben genannten Turniere ist der Turnierleiter. Er sorgt für die ordnungsgemäße Durchführung dieser Turniere und entscheidet in Streitfällen. Er kann die Leitung der Turniere delegieren und Schiedsrichter bestimmen.
 * Teilnahmeberechtigt an diesen Turnieren sind alle Vereinsmitglieder.
-* Bei allen Turnieren herrscht im Turniersaal absolutes Rauchverbot.
 * Der Spielbetrieb der Jugend wird vom Vereinsjugendleiter nach eigenem Ermessen und in eigener Verantwortung durchgeführt.
 
 ##Gemeinsame Bestimmungen für Vereinsturnier und Vereinspokal
