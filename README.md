@@ -22,12 +22,11 @@
 * Spielbeginn wird in der Ausschreibung vom Turnierleiter festgelegt (möglichst 19:30). Zu diesem Zeitpunkt setzt der Spieler mit den schwarzen Figuren die Uhr des Weiß-Spielers in Gang. Ist der Schwarz-Spieler noch nicht anwesend, setzt der Weiß-Spieler vor Ausführung seines ersten Zuges seine Uhr in Gang. Sind beide Spieler bei Spielbeginn nicht anwesend, wird bei Partiebeginn die bis dahin verstrichene Zeit von der Bedenkzeit des Weiß-Spielers abgezogen, bevor seine Uhr in Gang gesetzt wird.
   * 2017/2018: 19:30 Uhr
   * 2016/2017: 20:00 Uhr
-* Jeder Spieler, der mehr als eine Stunde nach dem angesetzten Spielbeginn am Schachbrett eintrifft, verliert die Partie, es sei denn der Turnierleiter entscheidet anders.
+* Jeder Spieler, der mehr als eine halbe Stunde nach dem angesetzten Spielbeginn am Schachbrett eintrifft, verliert die Partie, es sei denn der Turnierleiter entscheidet anders.
 * Es wird gespielt, bis die Partie entschieden ist, ein Abbruch zur Hängepartie ist nicht zulässig.
 * Sobald eine Partie beendet ist, muss das Ergebnis in dem im Turniersaal aushängenden Spielplan eingetragen oder dem Turnierleiter gemeldet werden.
 
 ## Vereinsturnier
-* Das Vereinsturnier soll in zwei Gruppen (A und B) gespielt werden. 
 * Der Turnierleiter legt einen passenden Austragungsmodus fest.
   * 2017/2018: Schweizersystem 9 Runden
   * 2016/2017: Schweizersystem 9 Runden
