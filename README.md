@@ -15,7 +15,7 @@
 * Teilnahmeberechtigt an diesen Turnieren sind alle Vereinsmitglieder.
 * Der Spielbetrieb der Jugend wird vom Vereinsjugendleiter nach eigenem Ermessen und in eigener Verantwortung durchgeführt.
 
-##Gemeinsame Bestimmungen für Vereinsturnier und Vereinspokal
+## Gemeinsame Bestimmungen für Vereinsturnier und Vereinspokal
 * Es herrscht Notationspflicht gemäß Artikel 8 der FIDE - Regeln. Den Spielern bleibt es allerdings freigestellt, ob sie die algebraische Notation (z.B. Ld6) oder die ausführliche algebraische Notation (z.B. Lf8-d6) verwenden.
 * Das Vereinsturnier und der Vereinspokal werden während der laufenden Verbandsrunde an den Vereinsabenden durchgeführt. Die Turniere werden DWZ - ausgewertet und sollen so rechtzeitig beendet sein, dass die Auswertung bis zur Generalversammlung erfolgen kann. 
 * Der Turnierleiter legt die Spieltermine. Die festgelegten Spieltermine sind einzuhalten, Spielverlegungen sind nur in besonderen Fällen möglich. Sie müssen rechtzeitig mit dem Turnierleiter und dem Gegner abgesprochen und vom Turnierleiter genehmigt werden. Die Spiele müssen vor der neuen Runder gespielt sein. Der Turnierleiter muss Spielverlegungen aufgrund übergeordneter Turniere (z.B. Kreispokal, Bezirks-Viererpokal) und offizieller Veranstaltungen übergeordneter Organisationen zustimmen.
